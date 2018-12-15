@@ -1,0 +1,2 @@
+# helloai
+AI bootcamp
